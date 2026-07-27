@@ -1,0 +1,99 @@
+{
+    "balance": 538.5400000000011,
+    "equity": 538.5400000000011,
+    "profit": 131.86999999999978,
+    "loss": 93.32999999999998,
+    "positions": {
+        "BTC/USDT": {
+            "open_position": false,
+            "side": "",
+            "entry_price": 0,
+            "quantity": 0,
+            "stop_loss": 0,
+            "take_profit": 0,
+            "ai_score": 59.88,
+            "confidence": 59.88,
+            "trend": "\ud83d\udfe2 SCALP BUY",
+            "reason": "15M : \ud83d\udfe2 BUY (100%) | 1H : \ud83d\udfe2 BUY (75%) | 4H : \ud83d\udd34 SELL (75%) | Volume : \ud83d\udd34 Low Volume | Candlestick : NONE | Market Strength : Bull 100.0% | Bear 0.0% | AI Score : 59.88% | Decision : \ud83d\udfe2 SCALP BUY",
+            "trade_time": "2026-07-26 20:01:22"
+        },
+        "ETH/USDT": {
+            "open_position": true,
+            "side": "BUY",
+            "entry_price": 1952.0,
+            "quantity": 0.275891,
+            "stop_loss": 1954.67,
+            "take_profit": 1968.86,
+            "ai_score": 74.8,
+            "confidence": 74.8,
+            "trend": "\ud83d\udfe2 SCALP BUY",
+            "reason": "15M : \ud83d\udfe2 BUY (100%) | 1H : \ud83d\udfe2 BUY (100%) | 4H : \ud83d\udfe2 BUY (100%) | Volume : \ud83d\udfe2 Very High Volume | Candlestick : NONE | Market Strength : Bull 100.0% | Bear 0.0% | AI Score : 74.8% | Decision : \ud83d\udfe2 SCALP BUY",
+            "trade_time": "2026-07-27 09:39:42"
+        },
+        "BNB/USDT": {
+            "open_position": false,
+            "side": "",
+            "entry_price": 0,
+            "quantity": 0,
+            "stop_loss": 0,
+            "take_profit": 0,
+            "ai_score": 68.0,
+            "confidence": 68.0,
+            "trend": "\ud83d\udfe2 SCALP BUY",
+            "reason": "15M : \ud83d\udfe2 BUY (100%) | 1H : \ud83d\udfe2 BUY (75%) | 4H : \ud83d\udd34 SELL (100%) | Volume : \ud83d\udd34 Low Volume | Candlestick : NONE | Market Strength : Bull 100.0% | Bear 0.0% | AI Score : 68.0% | Decision : \ud83d\udfe2 SCALP BUY",
+            "trade_time": "2026-07-25 22:45:52"
+        },
+        "SOL/USDT": {
+            "open_position": false,
+            "side": "",
+            "entry_price": 0,
+            "quantity": 0,
+            "stop_loss": 0,
+            "take_profit": 0,
+            "ai_score": 67.38,
+            "confidence": 67.38,
+            "trend": "\ud83d\udfe2 SCALP BUY",
+            "reason": "15M : \ud83d\udfe2 BUY (100%) | 1H : \ud83d\udfe2 BUY (100%) | 4H : \ud83d\udd34 SELL (75%) | Volume : \ud83d\udfe2 High Volume | Candlestick : NONE | Market Strength : Bull 100.0% | Bear 0.0% | AI Score : 67.38% | Decision : \ud83d\udfe2 SCALP BUY",
+            "trade_time": "2026-07-26 21:08:27"
+        },
+        "XRP/USDT": {
+            "open_position": false,
+            "side": "",
+            "entry_price": 0,
+            "quantity": 0,
+            "stop_loss": 0,
+            "take_profit": 0,
+            "ai_score": 69.58,
+            "confidence": 69.58,
+            "trend": "\ud83d\udfe2 SCALP BUY",
+            "reason": "15M : \ud83d\udfe2 BUY (100%) | 1H : \ud83d\udfe2 BUY (75%) | 4H : \ud83d\udd34 SELL (100%) | Volume : \ud83d\udfe1 Normal Volume | Candlestick : NONE | Market Strength : Bull 100.0% | Bear 0.0% | AI Score : 69.58% | Decision : \ud83d\udfe2 SCALP BUY",
+            "trade_time": "2026-07-26 06:02:52"
+        },
+        "ADA/USDT": {
+            "open_position": false,
+            "side": "",
+            "entry_price": 0,
+            "quantity": 0,
+            "stop_loss": 0,
+            "take_profit": 0,
+            "ai_score": 71.67,
+            "confidence": 71.67,
+            "trend": "\ud83d\udd34 SCALP SELL",
+            "reason": "15M : \ud83d\udd34 SELL (100%) | 1H : \ud83d\udd34 SELL (75%) | 4H : \ud83d\udd34 SELL (100%) | Volume : \ud83d\udfe2 Very High Volume | Candlestick : DOJI | Market Strength : Bull 100.0% | Bear 0.0% | AI Score : 71.67% | Decision : \ud83d\udd34 SCALP SELL",
+            "trade_time": "2026-07-26 19:42:07"
+        },
+        "DOGE/USDT": {
+            "open_position": false,
+            "side": "",
+            "entry_price": 0,
+            "quantity": 0,
+            "stop_loss": 0,
+            "take_profit": 0,
+            "ai_score": 68.88,
+            "confidence": 68.88,
+            "trend": "\ud83d\udfe2 SCALP BUY",
+            "reason": "15M : \ud83d\udfe2 BUY (100%) | 1H : \ud83d\udfe2 BUY (75%) | 4H : \ud83d\udd34 SELL (100%) | Volume : \ud83d\udfe2 High Volume | Candlestick : NONE | Market Strength : Bull 100.0% | Bear 0.0% | AI Score : 68.88% | Decision : \ud83d\udfe2 SCALP BUY",
+            "trade_time": "2026-07-25 18:34:54"
+        }
+    }
+}
